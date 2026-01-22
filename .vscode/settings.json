@@ -1,0 +1,8 @@
+{
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.nextEditSuggestions.fixes": true,
+    "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": true,
+    "editor.inlineSuggest.edits.showLongDistanceHint": true,
+    "editor.inlineSuggest.edits.renderSideBySide": "auto",
+    "editor.inlineSuggest.edits.allowCodeShifting": "always"
+}
